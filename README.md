@@ -32,3 +32,7 @@ Main Inputs Used in form pages and individual registration
 - `Telephone : <input type="tel"> 📱`
 
 - `Range : <input type="range"> --•--`
+
+- `Submit : <input type="submit"> 📨`
+
+- `Reset : <input type="reset"> 🚫`
