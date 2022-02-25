@@ -22,3 +22,5 @@ Main Inputs Used in form pages and individual registration
 - `Color : <input type="color"> 💜❤️`
 
 - `Time : <input type="time"> ⌚`
+
+- `Date : <input type="date"> 📅`
