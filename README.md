@@ -24,3 +24,11 @@ Main Inputs Used in form pages and individual registration
 - `Time : <input type="time"> ⌚`
 
 - `Date : <input type="date"> 📅`
+
+- `Url : <input type="url"> 🔗`
+
+- `Search : <input type="search"> 🔍`
+
+- `Telephone : <input type="tel"> 📱`
+
+- `Range : <input type="range"> --•--`
