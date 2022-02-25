@@ -3,14 +3,22 @@ Main Inputs Used in form pages and individual registration
 
  link to view  https://vitordev01.github.io/Inputs-html5/
 
-- `text : <input type="text"> ` 🗒️
+- `text : <input type="text"> 🗒️`
 
-- `Password : <input type="password">` 🔐
+- `Password : <input type="password"> 🔐`
 
-- `CheckBox : <input type="checkbox">` ✅
+- `CheckBox : <input type="checkbox"> ✅`
 
-- `Email / gmail : <input type="email">` ✉️
+- `Email : <input type="email"> ✉️`
 
-- `Number : <input type="number">` 12334789
+- `Number : <input type="number"> 123`
 
-- `
+- `File : <input type="file"> 🗃️`
+
+- `Radio : <input type="radio"> yes - no`
+
+- `Button : <input type="button"> 🔘`
+
+- `Color : <input type="color"> 💜❤️`
+
+- `Time : <input type="time"> ⌚`
